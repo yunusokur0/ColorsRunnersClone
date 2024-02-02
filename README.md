@@ -26,6 +26,18 @@ Kullanılan desenler
 
 ---
 
+&#8226; EASY SAVE 3
+
+&#8226; DOTween
+
+&#8226; MK Toon
+
+&#8226; Joystick
+
+&#8226; Cinemachine
+
+---
+
 Gameplay    
 ====================
 
