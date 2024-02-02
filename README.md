@@ -25,3 +25,11 @@ Kullanılan desenler
 &#8226; Enum Pattern
 
 ---
+
+Gameplay    
+====================
+
+
+https://github.com/yunusokur0/ColorsRunnersClone/assets/114630722/6933c165-97de-4e0f-a77f-9a6ce86248bb
+
+
