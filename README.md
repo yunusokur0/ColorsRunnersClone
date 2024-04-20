@@ -42,6 +42,6 @@ Gameplay
 ====================
 
 
-https://github.com/yunusokur0/ColorsRunnersClone/assets/114630722/6933c165-97de-4e0f-a77f-9a6ce86248bb
+https://github.com/yunusokur0/ColorsRunnersClone/assets/114630722/9d6fc3c3-3e83-4bf0-8ee3-8fa8f05bad5d
 
 
