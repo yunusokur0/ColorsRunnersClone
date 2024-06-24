@@ -7,7 +7,7 @@ Unity C#
 
 Kullanılan desenler     
 ====================
---
+---
 &#8226; Singleton Pattern
 
 &#8226; Observer Pattern
